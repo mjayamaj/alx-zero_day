@@ -1,1 +1,2 @@
-new Readme
+I love coding thanks to Alx
+
